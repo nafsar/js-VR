@@ -1,0 +1,9 @@
+{
+  "name": "js-rsnvth",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/js-rsnvth",
+  "dependencies": {
+    "three": "0.94.0"
+  },
+  "version": "1.0.0"
+}
